@@ -6,9 +6,9 @@
 
 
 
-### 🥰 FEATURES
+### 🥰 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
 
-<details><summary>Tap On Me For Bot Features</summary>
+
 
  - Automatically approve join request in channel Or groups.
  - Pending request also approved in channel Or groups.
@@ -21,9 +21,9 @@
 - [Developer support](https://telegram.me/TechifySupport) 24x7
 </details>
 
-### 😍 COMMANDS
+### 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦
 
-<b><details><summary>Tap On Me For Commands</summary>
+
 ```
 start - Check Bot Alive.
 stats - Check bot stats.
@@ -38,9 +38,9 @@ broadcast - Broadcast Massage Send All Users In Bot.
 ```
 </details>
 
-### 🔥 VARIABLES
+### 🔥 𝗩𝗔𝗥𝗜𝗔𝗕𝗟𝗘𝗦
 
-<details><summary>Tap On Me For Environment Variable</summary>
+
 
 - `API_ID` - Your Telegram API ID.Get it [Here](https://youtu.be/y5FwAobQ-Kc)
 - `API_HASH` - Your Telegram API HASH.Get it [Here](https://youtu.be/y5FwAobQ-Kc)
