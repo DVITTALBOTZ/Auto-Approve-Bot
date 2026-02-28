@@ -4,9 +4,9 @@ from typing import List
 API_ID = os.environ.get("API_ID", "")
 API_HASH = os.environ.get("API_HASH", "")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-ADMIN = int(os.environ.get("ADMIN", "1255023013"))
-PICS = (os.environ.get("PICS", "https://i.ibb.co/MDssddJp/pic.jpg https://i.ibb.co/n8fQ2xcx/pic.jpg https://i.ibb.co/LDxwffYv/pic.jpg https://i.ibb.co/m5BN0XPD/pic.jpg")).split()
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002686843200"))
+ADMIN = int(os.environ.get("ADMIN", "5896902449"))
+PICS = (os.environ.get("PICS", "https://files.catbox.moe/qoh0kq.jpg https://files.catbox.moe/kq9ngy.jpg https://files.catbox.moe/0u6zi4.jpg https://files.catbox.moe/tjbps6.jpg https://files.catbox.moe/ib7r61.jpg https://files.catbox.moe/7rjw95.jpg")).split()
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-100xxxxxxxx"))
 NEW_REQ_MODE = os.environ.get("NEW_REQ_MODE", "True").lower() == "true"
 DB_URI = os.environ.get("DB_URI", "")
 DB_NAME = os.environ.get("DB_NAME", "approve")
