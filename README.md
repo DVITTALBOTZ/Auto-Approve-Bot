@@ -1,5 +1,5 @@
 <h1 align="center">
- <b><a href="https://youtu.be/vNyvyCVer4g" target="/blank">Auto Approve Bot</a>
+ <b><a href="https://t.me/DVITTAL_BOT" target="/blank">𝐀𝐮𝐭𝐨 𝐀𝐩𝐩𝐫𝐨𝐯𝐞 𝐁𝐨𝐭</a>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
