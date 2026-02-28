@@ -89,3 +89,10 @@ broadcast - Broadcast Massage Send All Users In Bot.
 ### 📌 NOTE
 
 𝘊𝘰𝘱𝘺𝘪𝘯𝘨 𝘰𝘳 𝘚𝘦𝘭𝘭𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘳𝘦𝘱𝘰 𝘪𝘴 𝘴𝘵𝘳𝘪𝘤𝘵𝘭𝘺 𝘱𝘳𝘰𝘩𝘪𝘣𝘪𝘵𝘦𝘥.</b>
+
+### 📞 OWNER CONTACT 
+
+<p>
+  <a href="https://t.me/DVITTAL_bot">
+    <img src="https://img.icons8.com/color/96/telegram-app.png" width="60" height="60" alt="Telegram">
+  </a>
