@@ -1,8 +1,29 @@
+
 <h1 align="center">
  <b><a href="https://t.me/DVITTAL_BOT" target="/blank">𝐀𝐮𝐭𝐨 𝐀𝐩𝐩𝐫𝐨𝐯𝐞 𝐁𝐨𝐭</a>
 </h1>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 
-<p align="center">🩷 Thanks for Being Here 🩷</p>
+<h2 align="center">
+    ──「DVɪᴛᴛAʟ Auto ApproveBot」──
+</h2>
+
+<p align="center">
+  <img src="https://files.catbox.moe/suixm4.jpg">
+</p>
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐀𝐮𝐭𝐨+𝐀𝐩𝐩𝐫𝐨𝐯𝐞+𝐁𝐨𝐭!;CREATED+BY+DVITTALBOTZ+DEVELOPER!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
+</p>
+
+ ━━━━━━━━━━━━━━━━━
+
+
+
+### ✅ Join Telegram Bots Update 
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DVITTALBOTZ) | [![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DVITTALBOTZ_DISSCUSSION)
+
+
 
 
 
