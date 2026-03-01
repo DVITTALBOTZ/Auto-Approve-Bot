@@ -76,15 +76,7 @@ broadcast - Broadcast Massage Send All Users In Bot.
 - `ADMIN` - bot owners Id.
 </details>
 
-### 💞 CREDIT
 
-- [TechifyBots](https://github.com/TechifyBots)
-
-### 😇 [SUPPORT](https://techifybots.github.io/PayWeb)
-
-### 🥳 [DEVELOPER](https://instagram.com/ImRahulDhankhar)
-
-### 🚀 [DEPLOYMENT GUIDE](https://www.youtube.com/playlist?list=PLQrMSile4s5UnIEvWyKM1MKFuNg8Wfh2S)
 
 ### 📌 NOTE
 
