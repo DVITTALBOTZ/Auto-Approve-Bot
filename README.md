@@ -9,7 +9,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://ibb.co/zWkt0tRQ">
+  <img src="">
 </p>
 
 
